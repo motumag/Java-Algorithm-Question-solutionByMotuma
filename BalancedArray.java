@@ -1,4 +1,5 @@
 public class BalancedArray {
+    // By Motuma Gishu
     public static int isBalanced(int[] a) {
         for (int i = 0; i < a.length; i++) {
             int sign = -1;
